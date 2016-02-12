@@ -1,4 +1,4 @@
-# Node101_StartingOut_01
+# Node101 Lecture 2
 ## The first part of our series of Node 101
 ### By Chris Cates :star:
 
