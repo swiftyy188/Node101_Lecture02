@@ -1,5 +1,5 @@
 # Node101 Lecture 2
-## The first part of our series of Node 101
+## The second part of our series of Node 101
 ### By Chris Cates :star:
 
 ### Installation Instructions
